@@ -1,0 +1,32 @@
+{
+"logdata":  [
+{
+"date": "1/12/2013 23:8:1",
+"domain": "a",
+"type": "INFO",
+"ip":"127.0.0.1",
+"users": "abc",
+"description": "xyz"
+},    {
+"date": "1/12/2013 23:8:1",
+"domain": "b",
+"type": "INFO",
+"ip":"127.0.0.1",
+"users": "abc",
+"description": "xyz"
+},    {
+"date": "1/12/2013 23:8:1",
+"domain": "c",
+"type": "INFO",
+"ip":"127.0.0.1",
+"users": "abc",
+"description": "xyz"
+},    {
+"date": "1/12/2013 23:8:1",
+"domain": "d",
+"type": "INFO",
+"ip":"127.0.0.1",
+"users": "abc",
+"description": "xyz"
+}]
+}
